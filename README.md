@@ -18,7 +18,7 @@
 1. Make sure Python 3 is installed
 2. Clone or download this repo
 3. Add questions to quiz.json file
-4. Run: `python quiz_app.py`
+4. Run: `python quiz.py`
 
 ## Concepts Applied
 - Classes and Objects
